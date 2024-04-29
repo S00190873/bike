@@ -1,13 +1,14 @@
-    /* ####################################################
-    :: Template Name: Bike Shop S00190873
-    :: Author: Colorlib
-    :: Author URL: https://colorlib.com
-    :: Description: Essence is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform.
-    :: Version: 1.0.0
-    :: Created: April 27, 2018
-    :: Last Updated: May 2, 2018
-    #################################################### */
-
-    /* ---------------------------------------
-    ##### - PLACE YOUR CUSTOM CSS HERE - #####
-    --------------------------------------- */
+/* Define a class for the container of each blog post */
+.single-blog-area {
+    height: 450px; /* Adjust the height as needed */
+    overflow: hidden; /* Hide overflowing content */
+    margin-bottom: 30px; /* Add some bottom margin for spacing */
+}
+.cta--text h6,
+.cta--text h2,
+.cta--text a {
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.7); /* Adjust values as needed */
+}
+.brands-area {
+    background-color: #ffffff; /* White background color */
+}
